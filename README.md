@@ -20,3 +20,4 @@ Currently a collage student going into infosec.
 ---
 # Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=Mindcool25&show_icons=true&theme=gruvbox#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindcool25&theme=gruvbox#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
