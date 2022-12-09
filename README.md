@@ -1,5 +1,6 @@
 # Howdy! I'm Mindcool25
 Currently a collage student going into infosec.
+
 ---
 # Current projects:
 - Recipe API: Both a [frontend](https://github.com/Mindcool25/recipeAPI-frontend) and [backend](https://github.com/Mindcoo25/recipeAPI-backend) that serves recipes from a database.
@@ -15,3 +16,7 @@ Currently a collage student going into infosec.
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
+
+---
+# Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindcool25)](https://github.com/anuraghazra/github-readme-stats)
