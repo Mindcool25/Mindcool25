@@ -19,4 +19,4 @@ Currently a collage student going into infosec.
 
 ---
 # Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindcool25)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Mindcool25&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
