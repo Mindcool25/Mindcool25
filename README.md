@@ -5,7 +5,7 @@ Currently a collage student going into infosec.
 # Current projects:
 - Recipe API: Both a [frontend](https://github.com/Mindcool25/recipeAPI-frontend) and [backend](https://github.com/Mindcool25/recipeAPI-backend) that serves recipes from a database.
 - [WAFRN](https://github.com/gabboman/wafrn): A side project that I occasionally contribute to, hosted [here](https://app.wafrn.net)
-- [obsidian-curator](https://github.com/Mindcool25/obsidian-curator): A script I use to manage my obsidian vault.
+- [raylibrl](https://github.com/Mindcool25/raylibrl): A roguelike written in rust, using raylib..
 ---
 # Languages and tools:
 <div>
