@@ -3,9 +3,9 @@ Currently a collage student going into infosec.
 
 ---
 # Current projects:
-- Recipe API: Both a [frontend](https://github.com/Mindcool25/recipeAPI-frontend) and [backend](https://github.com/Mindcool25/recipeAPI-backend) that serves recipes from a database.
+- [Minecraft Kiosk](https://github.com/Mindcool25/minecraftKiosk): A nixOS configuration that runs Mineraft in kiosk mode.
 - [WAFRN](https://github.com/gabboman/wafrn): A side project that I occasionally contribute to, hosted [here](https://app.wafrn.net)
-- [raylibrl](https://github.com/Mindcool25/raylibrl): A roguelike written in rust, using raylib..
+- [raylibrl](https://github.com/Mindcool25/raylibRoguelike): A roguelike written in rust, using raylib.
 ---
 # Languages and tools:
 <div>
