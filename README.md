@@ -4,7 +4,7 @@ Currently a collage student going into infosec.
 ---
 # Current projects:
 - [Minecraft Kiosk](https://github.com/Mindcool25/minecraftKiosk): A nixOS configuration that runs Mineraft in kiosk mode.
-- [WAFRN](https://github.com/gabboman/wafrn): A side project that I occasionally contribute to, hosted [here](https://app.wafrn.net)
+- [MultiblockLib](https://github.com/Mindcool25/multiblock_lib): A luanti library to assist with creating multiblock machines in game.
 - [raylibrl](https://github.com/Mindcool25/raylibRoguelike): A roguelike written in rust, using raylib.
 ---
 # Languages and tools:
